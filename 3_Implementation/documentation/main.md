@@ -1,1 +1,1 @@
-@mainpage Blinky Example by Bharath G @subpage project_main.c
+@mainpage HeatControlSystem Example by Anusha K @subpage project_main.c

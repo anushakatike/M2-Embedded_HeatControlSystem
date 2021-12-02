@@ -21,8 +21,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |Circuit|RAM Table|
 |:--:|:--:|
-|![Circuit](https://user-images.githubusercontent.com/94188453/144363857-28b48024-e503-4b40-ac4d-0b23f9221890.gif)|![RAM_table]
-(https://user-images.githubusercontent.com/94188453/144364012-3ed4a662-7932-410e-8ea6-4d8238b8913f.gif)|
+|![Circuit](https://user-images.githubusercontent.com/94188453/144363857-28b48024-e503-4b40-ac4d-0b23f9221890.gif)|![RAM_table](https://user-images.githubusercontent.com/94188453/144364012-3ed4a662-7932-410e-8ea6-4d8238b8913f.gif)|
 
 )|)|
 

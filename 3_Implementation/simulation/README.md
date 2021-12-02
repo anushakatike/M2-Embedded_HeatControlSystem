@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|\image html ON.png||
+|\"C:\Users\K.Anusha\Desktop\Simulation_ON.png"||\"C:\Users\K.Anusha\Desktop\Simulation_OFF.png"||
 
 ## Code 
 ```

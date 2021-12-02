@@ -22,11 +22,9 @@ Below shows two images where in the 1st image shows the status of the simulation
 |Circuit|RAM Table|
 |:--:|:--:|
 |![Circuit](https://user-images.githubusercontent.com/94188453/144363857-28b48024-e503-4b40-ac4d-0b23f9221890.gif)|![RAM_table](https://user-images.githubusercontent.com/94188453/144364012-3ed4a662-7932-410e-8ea6-4d8238b8913f.gif)|
-
-)|)|
-
 |CRO|Serial Monitor|
-|![CRO](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Oscilloscope.gif)|![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Serial_Monitor.gif)|
+|![Oscilloscope](https://user-images.githubusercontent.com/94188453/144364522-371428f2-8bb3-4c49-974d-f35da31d211d.gif)|![Serial_Monitor](https://user-images.githubusercontent.com/94188453/144364647-c76829ec-9896-4149-b9fb-9c784dc77e67.gif)|
+
 
 ### Functionality 
 

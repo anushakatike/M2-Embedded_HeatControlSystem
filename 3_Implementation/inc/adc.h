@@ -1,6 +1,6 @@
 /**
  * @file adc.h
- * @author Anusha K (k.anusha1@ltts.com)
+ * @author Anusha K (anushakatike99@gmail.com)
  * @brief A header file for fast pulse width modulation using timer 1
  * @version 0.1
  * @date 2021-12-02
